@@ -1,2 +1,1 @@
-# clothstore
-study again!!
+Clothing Store
